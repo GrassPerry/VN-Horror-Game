@@ -4,4 +4,4 @@ What the player does: The player is a survivor of the apocalypse suddenly put in
 
 What the goal is: Get to the rumored safe town where they’ve discovered a cure with as close to a full party as you can. Keep as many people alive as you can.
 
-How the game ends: The game will have ~5 endings where you make it to the town or you go insane from the grief and guilt of losing your friends and teammates along the way.
+How the game ends: The game will have ~2 endings where you make it to the town or you go insane from the grief and guilt of losing your friends and teammates along the way.
