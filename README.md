@@ -20,8 +20,4 @@ Visual novel games like Doki Doki Literature Club
 #Jazz
 
 
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Char-Base.png?raw=true" width="200" height="324">
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Char-Base-EC.png?raw=true" height="324">
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-TalkingPose.png?raw=true" width="200" height="324">
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Wounded.png?raw=true" width="200" height="324">
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Death-Ghost.png?raw=true" width="200" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Char-Base-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-TalkingPose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Death-Ghost.png?raw=true" width="200" height="324">
