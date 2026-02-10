@@ -15,5 +15,13 @@ Visual novel games like Doki Doki Literature Club
 ![badSketch](https://github.com/GrassPerry/VN-Horror-Game/blob/main/images/badsketch.png?raw=true)
 ![baseIdeas](https://github.com/GrassPerry/VN-Horror-Game/blob/main/images/IMG_20260120_080153.jpg?raw=true)
 
-# Current character Art
+## Current character Art
+
+#Jazz
+
+
 <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Char-Base.png?raw=true" width="200" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Char-Base-EC.png?raw=true" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-TalkingPose.png?raw=true" width="200" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Wounded.png?raw=true" width="200" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Death-Ghost.png?raw=true" width="200" height="324">
