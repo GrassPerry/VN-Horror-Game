@@ -43,18 +43,18 @@ Visual novel games like Doki Doki Literature Club
 
 <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Talking-Pose.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Death-PShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Death-SShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Silhouette%20.png?raw=true" width="200" height="324">
 
-##Sel
+## Sel
 
 
 <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Sel/Sel-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Sel/Sel-Silhouette.png?raw=true" width= "200" height="324">
 
 
-##Bex
+## Bex
 
 
 <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Bex/Bex-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Bex/Bex-Silhouette%20.png?raw=true" width= "200" height="324">
 
 
-#Backgrounds
+# Backgrounds
 
 None right now, I just have a borrowed image but I'm working on it right now.
