@@ -58,3 +58,7 @@ Visual novel games like Doki Doki Literature Club
 # Backgrounds
 
 None right now, I just have a borrowed image but I'm working on it right now.
+
+# Animations
+
+Working on a text scroll function right now and I have a fade in screen and the first charcter fade in.
