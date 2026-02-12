@@ -16,26 +16,44 @@ Visual novel games like Doki Doki Literature Club
 ![baseIdeas](https://github.com/GrassPerry/VN-Horror-Game/blob/main/images/IMG_20260120_080153.jpg?raw=true)
 
 # Current character Art
+1. Currently I have almost all character sprites done with the exeption of wounded, ghost and talking poses for Q, Sel and Bex
+2. I mean they're character sprites, they're used for the characters
+3. Apple Pencil and Sketchbook on my iPad
 
 ## Jazz
 
 
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Char-Base-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-TalkingPose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Jazz/Jazz-Death-Ghost.png?raw=true" width="200" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Char-Base-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-TalkingPose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Death-Ghost.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Silhouette.png?raw=true" width="200" height="324">
 
 
 ## Q
 
 
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Q/Q-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Q/Q-Talking-Pose.png?raw=true" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Talking-Pose.png?raw=true" width= "200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Silhouette.png?raw=true" width= "200" height="324">
 
 
 ## Mil
 
 
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Mil/Mil-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Mil/Mil-Char-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Mil/Mil-Talking-Pose.png?raw=true" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Char-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Talking-Pose.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Crying-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Ghost.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Silhouette.png?raw=true" height="324"> 
 
 
 ## Vic
 
 
-<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Vic/Vic-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Vic/Vic-Talking-Pose.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Vic/Vic-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Vic/Vic-Death-PShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/Vic/Vic-Death-SShoot.png?raw=true" width="200" height="324">
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Talking-Pose.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Death-PShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Death-SShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Silhouette%20.png?raw=true" width="200" height="324">
+
+##Sel
+
+
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Sel/Sel-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Sel/Sel-Silhouette.png?raw=true" width= "200" height="324">
+
+
+##Bex
+
+
+<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Bex/Bex-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Bex/Bex-Silhouette%20.png?raw=true" width= "200" height="324">
+
+
+#Backgrounds
+None right now, I just have a borrowed image but I'm working on it right now.
