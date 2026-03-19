@@ -8,12 +8,30 @@ How the game ends: The game will have 2+ endings where you make it to the town o
 
 Game loop: You have a lot of options so it's basically every time you play you could get new dialogue or screens
 
+Main player controls will just be clicking through text or on buttons for choices.
+
 Inspirations: 
 
 Visual novel games like Doki Doki Literature Club
 
 ![badSketch](https://github.com/GrassPerry/VN-Horror-Game/blob/main/images/badsketch.png?raw=true)
 ![baseIdeas](https://github.com/GrassPerry/VN-Horror-Game/blob/main/images/IMG_20260120_080153.jpg?raw=true)
+
+# Art Style
+- 2D
+- Not realistic, cartoony?
+- A lot of deep blues and grays(not including characters)
+
+# Sound and music design
+Sounds and Music will be heavy cues in the game, with the background music slowly getting more distorted the more that the player loses people.
+
+# Menus
+Start screen, ending scenes, save and load menu
+
+# HUD
+Text boxes
+Character names
+Quick menu buttons(?)
 
 # Current character Art
 1. Currently I have almost all character sprites done with the exeption of wounded, ghost and talking poses for Q, Sel and Bex
